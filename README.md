@@ -7,6 +7,8 @@ A clear breakdown of KNN’s working principle
 Insights into performance metrics like accuracy, precision, and recall
 
 Key advantages and potential pitfalls to consider when choosing KNN for your projects
+
+
 ----------------------------------------------------------
 
 Çalışmamda, KNN algoritmasının mekaniğini derinlemesine inceleyerek, veri noktalarını yakınlığa göre nasıl sınıflandırdığını ve performansını nasıl değerlendirebileceğimizi araştırıyorum. 📊
